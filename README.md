@@ -1,5 +1,6 @@
 ##
-This project is the test app for the microservicesexample repository.
+
+# This project is the test app for the microservicesexample repository.
 
 ## Gergely Vamosi
 
